@@ -1,8 +1,8 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshsinghsamant13&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshsinghsamant13" /> </p>
 
-- 🔭 I’m currently working on **Bhaasha**
+- 🔭 I’m currently working on **Burger-Builder**
 
 - 🌱 I’m currently learning **React, NgNix, Docker**
 
